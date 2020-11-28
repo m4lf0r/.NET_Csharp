@@ -1,0 +1,13 @@
+C:\Users\M4lf0r\ConsoleDIO\bin\Debug\netcoreapp3.1\ConsoleDIO.exe
+C:\Users\M4lf0r\ConsoleDIO\bin\Debug\netcoreapp3.1\ConsoleDIO.deps.json
+C:\Users\M4lf0r\ConsoleDIO\bin\Debug\netcoreapp3.1\ConsoleDIO.runtimeconfig.json
+C:\Users\M4lf0r\ConsoleDIO\bin\Debug\netcoreapp3.1\ConsoleDIO.runtimeconfig.dev.json
+C:\Users\M4lf0r\ConsoleDIO\bin\Debug\netcoreapp3.1\ConsoleDIO.dll
+C:\Users\M4lf0r\ConsoleDIO\bin\Debug\netcoreapp3.1\ConsoleDIO.pdb
+C:\Users\M4lf0r\ConsoleDIO\obj\Debug\netcoreapp3.1\ConsoleDIO.csprojAssemblyReference.cache
+C:\Users\M4lf0r\ConsoleDIO\obj\Debug\netcoreapp3.1\ConsoleDIO.AssemblyInfoInputs.cache
+C:\Users\M4lf0r\ConsoleDIO\obj\Debug\netcoreapp3.1\ConsoleDIO.AssemblyInfo.cs
+C:\Users\M4lf0r\ConsoleDIO\obj\Debug\netcoreapp3.1\ConsoleDIO.csproj.CoreCompileInputs.cache
+C:\Users\M4lf0r\ConsoleDIO\obj\Debug\netcoreapp3.1\ConsoleDIO.dll
+C:\Users\M4lf0r\ConsoleDIO\obj\Debug\netcoreapp3.1\ConsoleDIO.pdb
+C:\Users\M4lf0r\ConsoleDIO\obj\Debug\netcoreapp3.1\ConsoleDIO.genruntimeconfig.cache
